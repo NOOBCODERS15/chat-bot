@@ -1,5 +1,5 @@
 # instructions
 go to website: https://theaiplayground.com 
-# support by hitting star
+# SUPPORT ME BY HITTING THE  STAR ♣
 
 
