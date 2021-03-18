@@ -1,0 +1,33 @@
+async function respond(inputText){
+	if(inputText=="hi")
+    Bot.send("hey, my name is LEXY i am a chatbot");
+
+	if(inputText=="good morning")
+	Bot.send("good mooring, start the day with a positive thought");
+
+	if(inputText=="good afternoon")
+	Bot.send("good afternoon have lunch and comeback soon..");
+
+	if(inputText=="good evening")
+	Bot.send("good evening take a break and have TEA and BISCUITS");
+
+	if(inputText=="good night")
+	Bot.send("good night,read a story book if you dont get sleep...");
+	
+	if(inputText=="hai")
+	Bot.send("hey, my name is LEXY i am a chatbot");
+
+	if(inputText=="who programmed you")
+	Bot.send("sathwik programmed me...");
+
+	if(inputText=="what is a chat bot")
+	Bot.send("a chat bot like me  which is programmed to chat with bots if a friend is not available youu can terat me as your friend! ");
+	
+	if(inputText=="bye")
+	Bot.send("bye, have fun talking to you,come back when you are free..");
+
+	if(inputText=="bai")
+	Bot.send("bye, have fun talking to you,come back when you are free..");
+
+
+ }
